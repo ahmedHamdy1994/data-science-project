@@ -1,0 +1,12 @@
+name: coursera-data-science-capstone
+title: shiny-app
+username:
+account: ahmedhamdi2072
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2553239
+bundleId: 3372977
+url: https://ahmedhamdi2072.shinyapps.io/coursera-data-science-capstone/
+when: 1594317892.31144
+asMultiple: FALSE
+asStatic: FALSE
